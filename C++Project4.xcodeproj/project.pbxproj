@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		8C30B6842AE1556A00C5844B /* C++Project4 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "C++Project4"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8C30B6872AE1556A00C5844B /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		8C30B68F2AE15AA600C5844B /* nokta.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = nokta.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				8C30B6872AE1556A00C5844B /* main.cpp */,
+				8C30B68F2AE15AA600C5844B /* nokta.h */,
 			);
 			path = "C++Project4";
 			sourceTree = "<group>";

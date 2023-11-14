@@ -6,9 +6,15 @@
 //
 
 #include <iostream>
+#include "nokta.h"
+using namespace std;
 
 int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+    
+    nokta A(8,0),B(6,3),C,D;
+    C=C.topla(A,B);
+    C.yaz();
+    int x= C.tumtopla();
+    cout<<"Tüm toplam= "<<x<<endl;
     return 0;
-}
+} 

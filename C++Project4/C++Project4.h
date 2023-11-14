@@ -7,6 +7,13 @@
 
 #ifndef C__Project4_h
 #define C__Project4_h
+class nokta{
+public:
+    void yaz();
+private:
+    int x;
+    int y;
+}
 
 
 #endif /* C__Project4_h */
